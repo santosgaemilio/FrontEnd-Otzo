@@ -1,2 +1,2 @@
-# FrontEnd-Otzo
-FrontEnd de proyecto demo "OTZO"
+# Página de Ejemplo del FrontEnd para obtener Productos
+
